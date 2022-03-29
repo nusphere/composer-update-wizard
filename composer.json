@@ -1,6 +1,7 @@
 {
   "name": "nubox/composer-update-wizard",
   "type": "composer-plugin",
+  "license": "MIT",
   "require": {
     "php": "^8.0",
     "composer-plugin-api": "^2.0",
